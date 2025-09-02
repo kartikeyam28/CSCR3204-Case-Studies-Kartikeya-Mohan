@@ -1,4 +1,4 @@
-# CSCR3204-Case-Studies-Kartikeya-Mohan
+# CSCR3204-Case-Studies-Kartikeya-Mohan LLM and Gen AI 
 📝 NLP Projects – Articles & Product Reviews Classification with BiLSTM
 
 This repository showcases two deep learning projects focused on Natural Language Processing (NLP):
